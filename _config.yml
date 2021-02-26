@@ -3,8 +3,8 @@
 
 # Site settings
 title: FoodPool
-description: |
-   Doing Good And Making Money - We donate 10% or more of all our pool owner profit to Action Against Hunger!
+subtitle: We donate 10% or more of all our pool owner profit to Action Against Hunger!
+description: Doing Good And Making Money
 owner: FoodPool # or company name
 first_published: 2021 # if migrating another site, the year of your first publish
 email: info@foodpool.online
