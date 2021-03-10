@@ -1,0 +1,39 @@
+{
+    "info": {
+        "url_png_icon_64x64": "http://foodpool.online/images/favicon.ico",
+        "url_png_logo": "http://foodpool.online/images/logo.jpg",
+        "location": "Berlin, Germany",
+        "social": {
+            "twitter_handle": "CardanoFood",
+            "telegram_handle": "rejoFood",
+            "facebook_handle": "",
+            "youtube_handle": "",
+            "twitch_handle": "",
+            "discord_handle": "",
+            "github_handle": ""
+        },
+        "company": {
+            "name": "",
+            "addr": "",
+            "city": "",
+            "country": "",
+            "company_id": "",
+            "vat_id": ""
+        },
+        "about": {
+            "me": "",
+            "server": "Raspberry Pi Rack Hosted at private Home in Germany, renewable energy.",
+            "company": ""
+        },
+        "rss": ""
+    },
+    "my-pool-ids": {
+        "0": "fcc8a499e4711c9b23df11b9f3a39584ff47bb1cff7fb764f6f5ed9c"
+    },
+    "when-satured-then-recommend": {
+        "0": "2a748e3885f6f73320ad16a8331247b81fe01b8d39f57eec9caa5091"
+    },
+    "telegram-admin-handle": {
+        "0": "rejoFood"
+    }
+}
